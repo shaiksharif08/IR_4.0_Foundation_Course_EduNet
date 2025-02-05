@@ -1,4 +1,2 @@
-# jskdwej
-## ujwhwixdu
-### kuwehdiwhd
-jhysagjusdhiAUWDHikug
+# basic linux
+pwd
